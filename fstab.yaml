@@ -1,5 +1,4 @@
 mountpoints:
-  /:
-    url: "https://author-p157365-e1665873.adobeaemcloud.com/ui#/aem/sites.html/content"
+  /: https://author.dev.abbvie.adobecqms.net/bin/franklin.delivery/smritikalra06/migration-eds/main
     type: "markup"
     suffix: ".html"
